@@ -1,4 +1,4 @@
 # lcsc-members
 list of members
 
-Becker | Becker | barrybecker4 | the longest journey begins with a single step.
+Becker | Barry | barrybecker4 | The longest journey begins with a single step.
