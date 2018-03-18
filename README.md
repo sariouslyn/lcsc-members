@@ -16,3 +16,13 @@ Gupta | Mili | PJATOHOO | e^(iπ) + 1
 Nathan | Jay | jn8302 | Why is it so cold in here?
 
 Vij | Yash | yv3060 | I love coding :)
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
