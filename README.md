@@ -1,7 +1,7 @@
 # lcsc-members
 list of members
 
-| Last Name | First Name | Github ID | Some Sentence |
+| Last | First | Github ID | Some Sentence |
 | :---      | :---       | :---      | :---          |
 | Arora | Riya | updown2 | !.!.!.!.!.! |
 | Becker | Barry | barrybecker4 | The longest journey begins with a single step. |
