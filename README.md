@@ -11,3 +11,4 @@ list of members
 | Gupta | Mili | PJATOHOO | e^(iπ) + 1 |
 | Nathan | Jay | jn8302 | Why is it so cold in here? | 
 | Vij | Yash | yv3060 | I love coding :) |
+| Liu | Daniel |Liu-Zhi-Yu | 郑凯乐 is my lord and savior |
